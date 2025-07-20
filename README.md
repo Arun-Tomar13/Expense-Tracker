@@ -1,12 +1,113 @@
-# React + Vite
+<h1 align="center">💸 Expense Tracker</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  A sleek, modern Expense Tracker built using <strong>React.js</strong>, <strong>Redux Toolkit</strong>, <strong>Tailwind CSS</strong>, <strong>React Router</strong>, <strong>Recharts</strong>, and <strong>React CSV</strong>.
+  <br/>
+  <br/>
+  Easily track your salary, categorize your expenses, visualize with graphs, and export to CSV.
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img src="images/home1.png" width="250" />
+  <img src="images/home2.png" width="250" />
+  <img src="images/home3.png" width="250" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📝 Add Salary & Expenses with timestamps
+- 🧠 Smart Category Filtering (Food, Travel, Rent, etc.)
+- 📊 Graph Visualization using Recharts (Line chart: Salary vs Expense over time)
+- 📁 Export filtered data to CSV
+- 💾 Persistent Storage with Redux + LocalStorage
+- 🚀 Responsive, Modern UI built with Tailwind CSS
+- 🔀 Seamless Page Navigation with React Router
+
+---
+
+## 🖼️ Screenshots
+
+### 🏠 Home Screen (Add Salary & Expenses)
+<div align="center">
+  <img src="./assets/home1.png" width="300" />
+  <img src="./assets/home2.png" width="300" />
+  <img src="./assets/home3.png" width="300" />
+</div>
+
+---
+
+### 🔍 Filter & Category View
+<div align="center">
+  <img src="./assets/filter1.png" width="300" />
+  <img src="./assets/filter2.png" width="300" />
+  <img src="./assets/filter3.png" width="300" />
+  <img src="./assets/filter4.png" width="300" />
+</div>
+
+---
+
+### 📈 Graph View (Salary vs Expense)
+<div align="center">
+  <img src="./assets/graph.png" width="500" />
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool            | Usage                          |
+|-----------------|--------------------------------|
+| React.js        | Frontend Framework             |
+| Redux Toolkit   | State Management               |
+| React Router    | Page Routing                   |
+| Tailwind CSS    | Styling & Layout               |
+| Recharts        | Data Visualization (Graphs)    |
+| React CSV       | CSV Export Functionality       |
+
+---
+
+## 🧑‍💻 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/Arun-Tomar13/Expense-Tracker.git
+
+# Navigate to the folder
+cd Expense-Tracker
+
+# Install dependencies
+npm install
+
+# Run the project
+npm run dev
+```
+
+📤 Export Feature
+Navigate to Filter Page
+
+Apply filters for 
+- type(salary/expense)
+- date
+- desciption
+
+
+Click Export CSV to download data
+
+🌐 Routing Structure
+/ – Home (Add Expense & Salary)
+
+/filter – Filter Data
+
+/graph – Line Chart Visualization
+
+🙌 Credits
+Created with ❤️ by Arun Tomar
+
+📃 License
+This project is open source and free to use.
+
+---
+
+
