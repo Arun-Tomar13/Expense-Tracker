@@ -10,7 +10,7 @@
 <p align="center">
   <img src="public/home1.png" width="250" />
   <img src="public/home2.png" width="250" />
-  <img src="public/home3.png" width="250" />
+  <img src="public/home 3.png" width="250" />
 </p>
 
 ---
@@ -33,7 +33,7 @@
 <div align="center">
   <img src="./public/home1.png" width="300" />
   <img src="./public/home2.png" width="300" />
-  <img src="./public/home3.png" width="300" />
+  <img src="./public/home 3.png" width="300" />
 </div>
 
 ---
