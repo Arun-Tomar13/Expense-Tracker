@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="images/home1.png" width="250" />
-  <img src="images/home2.png" width="250" />
-  <img src="images/home3.png" width="250" />
+  <img src="public/home1.png" width="250" />
+  <img src="public/home2.png" width="250" />
+  <img src="public/home3.png" width="250" />
 </p>
 
 ---
@@ -31,26 +31,26 @@
 
 ### 🏠 Home Screen (Add Salary & Expenses)
 <div align="center">
-  <img src="./assets/home1.png" width="300" />
-  <img src="./assets/home2.png" width="300" />
-  <img src="./assets/home3.png" width="300" />
+  <img src="./public/home1.png" width="300" />
+  <img src="./public/home2.png" width="300" />
+  <img src="./public/home3.png" width="300" />
 </div>
 
 ---
 
 ### 🔍 Filter & Category View
 <div align="center">
-  <img src="./assets/filter1.png" width="300" />
-  <img src="./assets/filter2.png" width="300" />
-  <img src="./assets/filter3.png" width="300" />
-  <img src="./assets/filter4.png" width="300" />
+  <img src="./public/filter1.png" width="300" />
+  <img src="./public/filter2.png" width="300" />
+  <img src="./public/filter3.png" width="300" />
+  <img src="./public/filter4.png" width="300" />
 </div>
 
 ---
 
 ### 📈 Graph View (Salary vs Expense)
 <div align="center">
-  <img src="./assets/graph.png" width="500" />
+  <img src="./public/graph.png" width="500" />
 </div>
 
 ---
