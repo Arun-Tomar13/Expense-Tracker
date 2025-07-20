@@ -18,7 +18,7 @@
 ## 🌟 Features
 
 - 📝 Add Salary & Expenses with timestamps
-- 🧠 Smart Category Filtering (Food, Travel, Rent, etc.)
+- 🧠 Smart Filtering based on (category date, desciption.)
 - 📊 Graph Visualization using Recharts (Line chart: Salary vs Expense over time)
 - 📁 Export filtered data to CSV
 - 💾 Persistent Storage with Redux + LocalStorage
@@ -31,19 +31,19 @@
 
 ### 🏠 Home Screen (Add Salary & Expenses)
 <div align="center">
-  <img src="./public/home1.png" width="300" />
-  <img src="./public/home2.png" width="300" />
-  <img src="./public/home 3.png" width="300" />
+  <img src="./public/home1.png" width="400" />
+  <img src="./public/home2.png" width="400" />
+  <img src="./public/home 3.png" width="400" />
 </div>
 
 ---
 
 ### 🔍 Filter & Category View
 <div align="center">
-  <img src="./public/filter1.png" width="300" />
-  <img src="./public/filter2.png" width="300" />
-  <img src="./public/filter3.png" width="300" />
-  <img src="./public/filter4.png" width="300" />
+  <img src="./public/filter1.png" width="400" />
+  <img src="./public/filter2.png" width="400" />
+  <img src="./public/filter3.png" width="400" />
+  <img src="./public/filter4.png" width="400" />
 </div>
 
 ---
